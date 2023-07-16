@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 50px;
+    background-color: rgb(226, 226, 238);
+}
+.btn-signUp{
+    background-color: rgb(194, 127, 4);
+    padding: 10px 20px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}

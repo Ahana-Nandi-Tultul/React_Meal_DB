@@ -1,0 +1,23 @@
+.meal{
+    border: 1px solid black;
+    border-radius: 20px;
+    
+}
+.meal-info img{
+    width: 98%;
+    border-radius: 20px;
+}
+
+.meal-info{
+    margin: 10px;
+    padding: 10px;
+}
+
+.btn-cart{
+    padding: 12px;
+    background-color: rgb(240, 17, 54);
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 100%;
+}
